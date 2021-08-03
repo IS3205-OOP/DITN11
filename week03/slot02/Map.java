@@ -2,7 +2,7 @@ package week03.slot02;
 
 public class Map {
 	
-	Pirate[][] arena;
+	public Pirate[][] arena;
 	final static int DEFAULT_SIZE = 3;
 	
 	public Map(int width, int height) {
